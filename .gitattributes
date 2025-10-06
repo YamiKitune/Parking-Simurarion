@@ -1,0 +1,17 @@
+# Treat text files as text and normalize
+* text=auto
+
+# Unity YAML files: use UnityYAMLMerge
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.mat merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.fbx binary
+*.psd binary
+*.tga binary
