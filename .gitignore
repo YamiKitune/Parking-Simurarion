@@ -1,0 +1,40 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Visual Studio / Rider / IDE
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.user
+*.booproj
+*.svd
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+
+# Asset store tools
+Assets/AssetStoreTools/*
+
+# Unity Cache Server
+Library/Cache/*
+
+# Ignore local crash logs and generated files
+sysinfo.txt
